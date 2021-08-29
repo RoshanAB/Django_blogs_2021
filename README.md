@@ -1,0 +1,1 @@
+# Django_blogs_2021
